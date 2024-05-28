@@ -1,0 +1,6 @@
+venv/
+.eggs/
+py_matrice.egg-info/
+tests/__pycache__/
+.pytest_cache/
+benchmark/
